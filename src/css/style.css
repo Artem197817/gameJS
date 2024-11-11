@@ -1,0 +1,25 @@
+canvas{
+    background-color: green;
+    margin-right: 20px;
+}
+.info{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.score{
+    margin-left: 20px;
+    font-size: 40px;
+}
+button{
+    padding: 20px;
+    background-color: blue;
+    color: white;
+}
+.container{
+    padding: 20px;
+    margin: 20px;
+}
+body{
+    box-sizing: border-box;
+}
